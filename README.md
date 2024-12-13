@@ -1,6 +1,6 @@
 # 🌟 Hi there, I'm **Chethana Methsithum** 👋 
 
-![Welcome Banner](https://raw.githubusercontent.com/Methsithum/Methsithum/main/banner/banner01.gif)
+![banner01](https://github.com/user-attachments/assets/2590db6c-cf49-4820-8dfc-d36cb27225ed)
 
 Welcome to my GitHub profile! I'm a passionate developer who loves crafting elegant code and exploring new technologies. Here's what I do and what you can find here:
 
