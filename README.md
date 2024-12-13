@@ -1,4 +1,4 @@
-https://raw.githubusercontent.com/Methsithum/Methsithum/main/banner01.gif
+banner01.gif
 
 # Hi there, I'm **[Your Name]**! 👋
 
