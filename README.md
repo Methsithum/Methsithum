@@ -1,4 +1,6 @@
-![2](https://github.com/user-attachments/assets/c0babfbf-55a2-4265-8c80-22ad76d5e6be)
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/c0babfbf-55a2-4265-8c80-22ad76d5e6be" width="500"/>
+</p>
 
 # 🌟 Hi there, I'm **Chethana Methsithum** 👋 
 
