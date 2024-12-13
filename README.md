@@ -35,12 +35,6 @@ Welcome to my GitHub profile! I'm a passionate developer who loves crafting eleg
 
 ---
 
-## 📌 Pinned Repositories
-
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=your-username&repo=your-repo&theme=radical)](https://github.com/your-username/your-repo)
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=your-username&repo=your-other-repo&theme=radical)](https://github.com/your-username/your-other-repo)
-
----
 
 > "Code is like humor. When you have to explain it, it’s bad." – _Cory House_
 
