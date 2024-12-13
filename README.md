@@ -1,3 +1,5 @@
+![2](https://github.com/user-attachments/assets/c0babfbf-55a2-4265-8c80-22ad76d5e6be)
+
 # 🌟 Hi there, I'm **Chethana Methsithum** 👋 
 
 ![1](https://github.com/user-attachments/assets/e556a57a-9026-42c6-8103-309360998755)
