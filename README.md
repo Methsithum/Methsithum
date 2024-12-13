@@ -1,6 +1,4 @@
-<p align="center">
-  <img src="https://github.com/user-attachments/assets/c0babfbf-55a2-4265-8c80-22ad76d5e6be" width="500"/>
-</p>
+![hello-world-seytonic](https://github.com/user-attachments/assets/8205020e-cbfe-4deb-9314-9f8edd84913f)
 
 # 🌟 Hi there, I'm **Chethana Methsithum** 👋 
 
