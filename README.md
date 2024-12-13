@@ -1,21 +1,12 @@
-banner01.gif
 
-# Hi there, I'm **[Your Name]**! 👋
+
+# Hi there, I'm Chethana Methsithum 👋
 
 Welcome to my GitHub profile! I'm a passionate developer who loves crafting elegant code and exploring new technologies. Here's what I do and what you can find here:
 
----
 
-## 🚀 About Me
 
-- 🔭 I’m currently working on **[Your Project/Area of Expertise]**
-- 🌱 I’m currently learning **[Technology or Skill]**
-- 👯 I’m looking to collaborate on **[Projects or Areas]**
-- 💬 Ask me about **[Topics you love to discuss]**
-- 📫 How to reach me: **[Your Email or Social Links]**
-- ⚡ Fun fact: **[Something unique about you]**
 
----
 
 ## 🛠 Tech Stack
 
