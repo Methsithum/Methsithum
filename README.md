@@ -1,4 +1,4 @@
-[Watch the Video](https://github.com/Methsithum/Methsithum/blob/main/banner1.mp4)
+[Watch the Video](https://github.com/Methsithum/Methsithum/blob/main/banner01.gif)
 
 # Hi there, I'm **[Your Name]**! 👋
 
