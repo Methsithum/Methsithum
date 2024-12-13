@@ -1,8 +1,6 @@
 
-![32](https://github.com/user-attachments/assets/c8091328-085c-4a6e-acf7-3d95a24c0b9d)
 # 🌟 Hi there, I'm **Chethana Methsithum** 👋 
-
-![1](https://github.com/user-attachments/assets/e556a57a-9026-42c6-8103-309360998755)
+![32](https://github.com/user-attachments/assets/c8091328-085c-4a6e-acf7-3d95a24c0b9d)
 
 Welcome to my GitHub profile! I'm a passionate developer who loves crafting elegant code and exploring new technologies. Here's what I do and what you can find here:
 
