@@ -93,8 +93,8 @@
 ## <img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="35"> ***GitHub Analytics***
 
 <div align="center">
-  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&count_private=true&hide_border=true&title_color=00b4d6&icon_color=00b4d8&text_color=c9d1d9&bg_color=0d1117" alt="Chethana Methsithum github stats" /> 
-  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&hide_border=true&title_color=00b4d6&text_color=00b4d8&bg_color=0d1117" />
+  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=Methsithum&show_icons=true&count_private=true&hide_border=true&title_color=00b4d6&icon_color=00b4d8&text_color=c9d1d9&bg_color=0d1117" alt="Chethana Methsithum github stats" /> 
+  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Methsithum&layout=compact&hide_border=true&title_color=00b4d6&text_color=00b4d8&bg_color=0d1117" />
 </div>
 
 <div align="center">
@@ -129,7 +129,7 @@ const chethana = {
 ## <img src="https://media.giphy.com/media/LMt9638dO8dftAjtco/giphy.gif" width="35"><b> Latest Activity </b>
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_GITHUB_USERNAME&bg_color=0d1117&color=00b4d6&line=00b4d8&point=ffffff&area=true&hide_border=true" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Methsithum&bg_color=0d1117&color=00b4d6&line=00b4d8&point=ffffff&area=true&hide_border=true" />
 </div>
 
 ---
@@ -145,7 +145,7 @@ const chethana = {
 ## <img src="https://media.giphy.com/media/12oufCB0MyZ1Go/giphy.gif" width="35"><b> Snake Game </b>
 
 <div align="center">
-  <img  src="https://github.com/YOUR_GITHUB_USERNAME/YOUR_GITHUB_USERNAME/blob/output/github-contribution-grid-snake.svg"
+  <img  src="https://github.com/Methsithum/Methsithum/blob/output/github-contribution-grid-snake.svg"
        alt="snake" /></a>
 </div>
 
@@ -161,7 +161,7 @@ const chethana = {
 
 ---
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
+  <img src="https://komarev.com/ghpvc/?username=Methsithum&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
 </p>
 
 ⭐️ **From [Chethana Methsithum](https://github.com/YOUR_GITHUB_USERNAME) with** ❤️
